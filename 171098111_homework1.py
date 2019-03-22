@@ -1,1 +1,0 @@
-print("first git project of hetianshu")
